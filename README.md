@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Results-driven Data Engineer with 5+ years of experience designing and optimizing end-to-end data pipelines in **Azure** and **AWS**. Skilled in ETL/ELT, data modeling, CDC/SCD, and orchestration using **Airflow**. Proven track record of building scalable, cost-efficient, and secure data workflows, integrating batch and streaming sources like **Kafka** and relational databases into **Snowflake** and **Delta Lake** for analytics.
+Results-driven Data Engineer with 5+ years of experience designing and optimizing end-to-end data pipelines in **Azure** and **AWS**. Skilled in ETL, ELT, data modeling, CDC, SCD, and orchestration using **Airflow**. Proven track record of building scalable, cost-efficient, and secure data workflows, integrating batch and streaming sources like **Kafka** and relational databases into **Snowflake** and **Delta Lake** for analytics.
 
 - 🔭 Currently working at **Wpp Media** as a Data Engineer
 - 🌱 Upskilling in data engineering & software development
