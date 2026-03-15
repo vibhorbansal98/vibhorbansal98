@@ -44,5 +44,5 @@ Results-driven Data Engineer with 4+ years of experience designing and optimizin
 ## 📬 Connect With Me
 
 - 📧 Email: [vibhorbansal1312@gmail.com](mailto:vibhorbansal1312@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/vibhorbansal](https://www.linkedin.com/in/vibhorbansal/)
+- 💼 LinkedIn: [linkedin.com/in/vibhorbansal](https://www.linkedin.com/in/vibhor-bansal-b8533119a/)
 - 🌐 GitHub Portfolio: [github.com/vibhorbansal98](https://github.com/vibhorbansal98)
